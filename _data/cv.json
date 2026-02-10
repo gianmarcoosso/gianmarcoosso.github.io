@@ -1,69 +1,47 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Gian Marco Osso",
+    "email": "gian.marco.osso1@gmail.org",
+    "website": "https://gianmarcoosso.github.io",
+    "summary": "Mathematician interested in descriptive set theory, computability theory and foundations.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Via delle Scienze 206",
+      "postalCode": "33100",
+      "city": "Udine",
+      "countryCode": "IT",
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "gianmarcoosso",
+        "url": "https://github.com/gianmarcoosso"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Udine",
+      "area": "Ph.D in Mathematical and Physical Sciences",
+      "startDate": "2023",
+      "endDate": "2026",
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Amsterdam (UvA)",
+      "area": "M.S. in Logic (Logic and Mathematics track)",
+      "startDate": "2020",
+      "endDate": "2022",
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
+      "institution": "University of Trento",
+      "area": "B.S. in Mathematics",
+      "startDate": "2017",
+      "endDate": "2020",
+      }
   ],
   "skills": [],
   "languages": [],
   "interests": [],
-  "references": [],
   "publications": [
     {
       "name": "Paper Title Number 1",
@@ -126,27 +104,18 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Linear Algebra and Geometry",
+      "institution": "University of Udine, Department of Mathematics",
+      "date": "2025/2026",
+      "role": "Teaching assistant",
+      "description": "I taught exercise classes for first year students of Linear Algebra and Geometry in the Bachelor of Mathematics at the University of Udine"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "course": "Calculus I (Analisi I)",
+      "institution": "University of Udine, Department of Mathematics",
+      "date": "2024/2025",
+      "role": "Teaching assistant",
+      "description": "I taught exercise classes for first year students of Calculus I (Analisi I) in the Bachelor of Mathematics at the University of Udine"
     }
   ]
 }
